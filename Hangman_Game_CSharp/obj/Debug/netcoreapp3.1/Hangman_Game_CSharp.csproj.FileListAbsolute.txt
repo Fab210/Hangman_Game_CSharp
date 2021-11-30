@@ -1,0 +1,15 @@
+C:\Users\fabio\source\repos\Hangman_Game_CSharp\Hangman_Game_CSharp\obj\Debug\netcoreapp3.1\Hangman_Game_CSharp.csproj.AssemblyReference.cache
+C:\Users\fabio\source\repos\Hangman_Game_CSharp\Hangman_Game_CSharp\obj\Debug\netcoreapp3.1\Hangman_Game_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\Hangman_Game_CSharp\Hangman_Game_CSharp\obj\Debug\netcoreapp3.1\Hangman_Game_CSharp.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\Hangman_Game_CSharp\Hangman_Game_CSharp\obj\Debug\netcoreapp3.1\Hangman_Game_CSharp.AssemblyInfo.cs
+C:\Users\fabio\source\repos\Hangman_Game_CSharp\Hangman_Game_CSharp\obj\Debug\netcoreapp3.1\Hangman_Game_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\Hangman_Game_CSharp\Hangman_Game_CSharp\bin\Debug\netcoreapp3.1\Hangman_Game_CSharp.exe
+C:\Users\fabio\source\repos\Hangman_Game_CSharp\Hangman_Game_CSharp\bin\Debug\netcoreapp3.1\Hangman_Game_CSharp.deps.json
+C:\Users\fabio\source\repos\Hangman_Game_CSharp\Hangman_Game_CSharp\bin\Debug\netcoreapp3.1\Hangman_Game_CSharp.runtimeconfig.json
+C:\Users\fabio\source\repos\Hangman_Game_CSharp\Hangman_Game_CSharp\bin\Debug\netcoreapp3.1\Hangman_Game_CSharp.runtimeconfig.dev.json
+C:\Users\fabio\source\repos\Hangman_Game_CSharp\Hangman_Game_CSharp\bin\Debug\netcoreapp3.1\Hangman_Game_CSharp.dll
+C:\Users\fabio\source\repos\Hangman_Game_CSharp\Hangman_Game_CSharp\bin\Debug\netcoreapp3.1\Hangman_Game_CSharp.pdb
+C:\Users\fabio\source\repos\Hangman_Game_CSharp\Hangman_Game_CSharp\obj\Debug\netcoreapp3.1\Hangman_Game_CSharp.dll
+C:\Users\fabio\source\repos\Hangman_Game_CSharp\Hangman_Game_CSharp\obj\Debug\netcoreapp3.1\Hangman_Game_CSharp.pdb
+C:\Users\fabio\source\repos\Hangman_Game_CSharp\Hangman_Game_CSharp\obj\Debug\netcoreapp3.1\Hangman_Game_CSharp.genruntimeconfig.cache
+C:\Users\fabio\source\repos\Hangman_Game_CSharp\Hangman_Game_CSharp\bin\Debug\netcoreapp3.1\mots.txt

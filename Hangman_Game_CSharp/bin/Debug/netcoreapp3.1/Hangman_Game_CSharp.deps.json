@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Hangman_Game_CSharp/1.0.0": {
+        "runtime": {
+          "Hangman_Game_CSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hangman_Game_CSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
