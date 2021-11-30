@@ -14,7 +14,6 @@ namespace Hangman_Game_CSharp
 
             for (int i = 0; i < word.Length; i++)
             {
-
                 char letter = word[i];
 
                 if (letters.Contains(letter))
@@ -25,9 +24,6 @@ namespace Hangman_Game_CSharp
                 {
                     Console.Write("_ ");
                 }
-
-
-
             }
 
         }
@@ -74,7 +70,6 @@ namespace Hangman_Game_CSharp
             {
                 return false;
             }
-
         }
 
 
@@ -113,11 +108,9 @@ namespace Hangman_Game_CSharp
                             break;
                         }
                     }
-
                 }
                 else
                 {
-
                     if (lettersNotInWord.Contains(letter))
                     {
                         Console.WriteLine("");
@@ -133,7 +126,6 @@ namespace Hangman_Game_CSharp
                         Console.WriteLine("NUMBER of Lifes : " + nbOfLifes);
 
                     }
-
                 }
                 if (lettersNotInWord.Count > 0)
                 {
@@ -141,10 +133,6 @@ namespace Hangman_Game_CSharp
                     Console.WriteLine(" *** The word doesn t contain this letters : " + String.Join(", ", lettersNotInWord));
                     Console.WriteLine();
                 }
-
-
-
-
             }
 
             if (nbOfLifes == 0)
@@ -153,8 +141,6 @@ namespace Hangman_Game_CSharp
                 Console.WriteLine(" ||| YOU LOOSE ||| The Word was : " + word);
 
             }
-
-
         }
 
         static string[] LoadWords(string fileName)
@@ -169,7 +155,6 @@ namespace Hangman_Game_CSharp
             }
 
             return null;
-
         }
 
         static bool AskReplay()
